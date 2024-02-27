@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export",
+    "deploy:render":  "wget https://api.render.com/deploy/srv-cnes2omg1b2c73cvqmkg?key=h97c6Nx4sgI" 
   },
   "dependencies": {
     "@buildo/bento-design-system": "^0.22.7",

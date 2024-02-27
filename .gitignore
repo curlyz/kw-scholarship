@@ -1,7 +1,7 @@
 .next
 node_modules/
 .build
-.out
+out/
 *.log
 .env.local
 .env.development.local
