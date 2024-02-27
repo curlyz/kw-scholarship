@@ -10,8 +10,8 @@ export default function TopNavigationBar() {
             <div
                 className="flex items-center gap-4"
             >
-                <Image
-                    src={PrimeBankScholarship}
+                <img
+                    src={PrimeBankScholarship.src}
                     alt="Prime Bank Scholarship"
                     height={32}
                 />

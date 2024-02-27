@@ -83,7 +83,7 @@ export default function WelcomeCard() {
 
             <div className="sm:w-3/5 hidden sm:visible overflow-hidden sm:block"
             >
-                <Image src={educationImage} className="w-full h-full" alt="edu" width={0} height={0} sizes='100vw'  />
+                <img src={educationImage.src} className="w-full h-full" alt="edu" />
             </div>
 
             
